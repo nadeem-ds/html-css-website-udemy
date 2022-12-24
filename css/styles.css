@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  width: 25%;
+  /* font-family: "Montserrat", sans-serif; */
+  font-size: 70px;
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  margin: 0 auto;
+  line-height: 2;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+.topContainer {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+  /* height: 200px;
+  width: 200px; */
+  /* border: solid 10px; */
+  /* border-color: black;
+} */
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.profile-pic {
+  height: 200px;
+  margin-top: 20px;
+}
+.info {
+  width: 50%;
+  margin: auto;
+  line-height: 1.8;
+  color: #40514e;
+}
+hr {
+  border: dotted #eaeaf6f6 6px;
+  border-bottom: none;
+  width: 10%;
+}
+.bottom-container a {
+  color: #11999e;
+}
+.software {
+  text-decoration: underline;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+/* .skill-row img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+} */
+.htmlskill,
+.jsskill {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.cssSkill,
+.reactskill {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+/* .skills{
+  align-items: center;
+} */
+.contact-me {
+  margin-bottom: 50px;
+}
+.contact-me h2 {
+  color: #66bfbf;
+  font-size: 30px;
+  font-weight: bold;
+}
+.contact-me h3 {
+  color: #66bfbf;
+  font-size: 20px;
+  font-weight: bold;
+}
+.contact-me p {
+  font-size: 15px;
+  font-weight: bold;
+  margin: 30px 0 80px 0;
+}
+.btn {
+  background-color: #66bfbf;
+  color: white;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 10px;
+  text-transform: capitalize;
+  text-align: center;
+  margin: 50px;
+  text-decoration: none;
+}
+.btn:hover {
+  background-color: #274d4d;
+  color: white;
+}
+
+.bottom-container {
+  padding: 50px 0 30px;
+  background-color: #66bfbf;
+}
+
+.footer-link {
+  margin: 10px 15px;
+  padding: 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #eae6f6;
+}
+
+.bottom-container p {
+  font-size: 12px;
+  color: wheat;
+  padding: 20px 0;
+}
